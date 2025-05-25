@@ -63,7 +63,7 @@
         <img src="7218526C-0DBD-47D1-B760-04B317763CA9.jpeg" alt="Cakouet de Bozouls">
     </div>
     <footer>
-        للتواصل: 050-xxxxxxx | الموقع: العين، الإمارات العربية المتحدة<br>
+        للتواصل: 0555966663- | الموقع: العين، الإمارات العربية المتحدة<br>
         <a href="https://maps.google.com" target="_blank">عرض الموقع على الخريطة</a>
     </footer>
 </body>
