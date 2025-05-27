@@ -1,0 +1,50 @@
+body {
+  font-family: 'Tahoma', sans-serif;
+  background-color: #fefaf4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+}
+
+header {
+  background-color: #d4af37;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+.cta-button {
+  display: inline-block;
+  margin-top: 15px;
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 40px 20px;
+  background-color: #fff;
+}
+
+.features div {
+  background: #f7f3e9;
+  border: 1px solid #ddd;
+  padding: 20px;
+  width: 220px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
